@@ -22,7 +22,7 @@ spec:
   spec:
    containers:
    - name: calculator
-     image: krssrinivas/luckynumber:1
+     image: krssrinivas/flask-calc:1
      resources:
       requests:
        cpu: "200m"
