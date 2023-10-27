@@ -1,0 +1,14 @@
+EKS-Cluster Role
+
+1) AmazonEBSCSIDriverPolicy
+2) AmazonEKSClusterPolicy
+3) ebc-csi
+
+
+EKS-NodeGroup Role
+
+1) AmazonEBSCSIDriverPolicy
+2) AmazonEC2ContainerRegistryReadOnly
+3) AmazonEKS_CNI_Policy
+4) AmazonEKSWorkerNodePolicy
+5) EKS-cluster-autoscaler
