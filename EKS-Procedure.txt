@@ -503,5 +503,3 @@ https://amazon-eks.s3.us-west-2.amazonaws.com/cloudformation/2020-08-12/amazon-e
 4) In EKS Service create Cluster and attach above role, create cluster.
 
 5) In the created cluster, go to compute and add nodegroup, provide as per requirement.
-
-
